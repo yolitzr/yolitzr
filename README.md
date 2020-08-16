@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://avatars3.githubusercontent.com/u/64231666?s=460&v=4">
+<img align="right" width="500" height="500" src="https://camo.githubusercontent.com/58151d96855b52518ad312c714ff3713fff228c0/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966">
 
 ### Hi there 👋
 
