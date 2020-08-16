@@ -25,12 +25,13 @@ Aspiring Frontend Developer
  </br>
   </br>
  <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="mg.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
- 
 </p>
 
+  
 ## My Github Public Stats
-  <img src = "https://github-readme-stats.vercel.app/api?username=yolitzr&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=yolitzr&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" align="center">
+</p>
 <!--
 **yolitzr/yolitzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
