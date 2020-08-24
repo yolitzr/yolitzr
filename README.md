@@ -30,7 +30,8 @@ Aspiring Frontend Developer
   
 ## My Github Public Stats
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yolitzr&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolitzr&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
+  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=yolitzr&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
 </p>
 <!--
 **yolitzr/yolitzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
