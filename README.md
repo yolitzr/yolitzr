@@ -12,6 +12,7 @@ Aspiring Frontend Developer
 
 **🌱 I’m currently learning:**
 - JavaScript
+- React.js
 - Vue.js
   
 **☕ Hobbies:**
