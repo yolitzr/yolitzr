@@ -12,8 +12,10 @@ Frontend Developer.
 
 **🌱 I’m currently learning:**
 - JavaScript
-- React.js / Gatsby.js
-- Vue.js
+
+**🌱 I’m currently learning the library and frameworks:**
+- React.js / Gatsby.js / Next.js
+- Vue.js / Nuxt.js
   
 **☕ Hobbies:**
 - Reading and Writing Blogs
